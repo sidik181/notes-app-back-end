@@ -1,3 +1,5 @@
 node_modules
 notes-api-webserver.pem
 notes-api-webserver.ppk
+Notes_API_Test.postman_collection.json
+Notes_API_Test.postman_environment.json
